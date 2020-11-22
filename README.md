@@ -1,0 +1,2 @@
+# Obsidian
+A second brain
